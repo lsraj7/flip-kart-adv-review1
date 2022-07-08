@@ -46,3 +46,10 @@
 2021-03-12 22:38:31,387:INFO:flipkrat.py:login popup handled
 2021-03-12 22:38:31,835:INFO:flipkrat.py:Search begins for Nike
 2021-03-12 22:38:38,080:INFO:flipkrat.py:Data saved in scrapper file
+2022-07-08 10:27:43,918:INFO:flipkrat.py:Url hitted
+2022-07-08 10:27:44,031:INFO:flipkrat.py:login popup handled
+2022-07-08 10:27:44,252:INFO:flipkrat.py:Search begins for samsung
+2022-07-08 10:30:41,563:INFO:flipkrat.py:Url hitted
+2022-07-08 10:30:41,716:INFO:flipkrat.py:login popup handled
+2022-07-08 10:30:41,961:INFO:flipkrat.py:Search begins for samsung
+2022-07-08 10:31:32,717:INFO:flipkrat.py:Data saved in scrapper file
